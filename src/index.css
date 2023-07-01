@@ -1,13 +1,11 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  background: url("https://cdn.pixabay.com/photo/2015/09/29/15/12/stars-964022_960_720.png") no-repeat center center fixed;
+  background-size: cover;
+  background-color: black;
+  color: white;
+  perspective: 1000px;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Lato', sans-serif;
+  min-height: 100vh;
 }
